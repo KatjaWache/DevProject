@@ -1,0 +1,36 @@
+* {
+  font-family: "Open Sans", sans-serif;
+}
+
+
+h1 {
+  color: SeaGreen;
+  font-style: oblique;
+  font-weight: bolder;
+  background-color: #DAF7A6;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+h2 {
+  color: SeaGreen;
+  font-style: italic;
+  font-weight: extra bold;
+}
+
+p,
+li {
+  font-size: 18px;
+}
+
+a {
+  text-decoration: underline;
+  color: SeaGreen;
+}
+body {
+    background-color: beige;
+    font-style: oplique;
+.gallery {
+  background-color: #DAF7A6;
+  font-style: oblique;
+}
