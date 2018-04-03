@@ -1,5 +1,5 @@
 * {
-  font-family: "Open Sans", sans-serif;
+  font-family: "Ultra",
 }
 
 
@@ -20,6 +20,7 @@ h2 {
 
 p,
 li {
+  font-family: SLABO 13PX;
   font-size: 18px;
 }
 
